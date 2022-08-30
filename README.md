@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Sohaib Raza</h1>
-<h3 align="center">A passionate full stack MERN Developer. I have an experience in developing React apps and Progressive web apps using the latest state of the art technologies Reactjs | NextJs | Redux | Material-UI| SCSS | GraphQl on the Client side and Nodejs | Firebase | MongoDB | Docker on the server side. Strong arts and design professional with a BS Information Technology (Hon's) focused in Computer Science from GC University Faisalabad.</h3>
+<h6 align="center">A passionate full stack MERN Developer. I have an experience in developing React apps and Progressive web apps using the latest state of the art technologies Reactjs | NextJs | Redux | Material-UI| SCSS | GraphQl on the Client side and Nodejs | Firebase | MongoDB | Docker on the server side. Strong arts and design professional with a BS Information Technology (Hon's) focused in Computer Science from GC University Faisalabad.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsohaibraza&label=Profile%20views&color=0e75b6&style=flat" alt="imsohaibraza" /> </p>
 
