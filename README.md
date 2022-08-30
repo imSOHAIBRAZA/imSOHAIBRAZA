@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/im_sohaibraza" target="blank"><img src="https://img.shields.io/twitter/follow/im_sohaibraza?logo=twitter&style=for-the-badge" alt="im_sohaibraza" /></a> </p>
 
+<h6>Now</h6>
+✨ Contributing to DMVI(Secomind.ai);
+🔥 Interested in Frontend and Cloud engineering;
+📆 Looking for contributing to react based open source projects
+
+<h6>Bio</h6>
 - 🤝 Ping me about **ReactJs, NextJs,Redux,GraphQL,RestApi**
 
 - 📫 Reach to me **sohaibraza789@gmail.com**
