@@ -3,8 +3,8 @@
 
 
 <h5>Now</h5>
-✨ Contributing to DMVI(Secomind.ai);
-🔥 Interested in Frontend and Cloud engineering;
+✨ Contributing to DMVI(Secomind.ai); </br>
+🔥 Interested in Frontend and Cloud engineering;</br>
 📆 Looking for contributing to react based open source projects
 
 <h5>Bio</h5>
