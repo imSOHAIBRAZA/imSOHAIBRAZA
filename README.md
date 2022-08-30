@@ -11,7 +11,7 @@
 - 🤝 Ping me about **ReactJs, NextJs,Redux,GraphQL,RestApi**
 
 - 📫 Reach to me **sohaibraza789@gmail.com**
-- 📱  Mobile <strong>+923316095789</strong>
+- 📱  Mobile <strong>[+923316095789](https://wa.me/923316095789)</strong>
 - 👨‍💻 Know about my experiences [https://www.linkedin.com/in/sohaibraza/](https://www.linkedin.com/in/sohaibraza/)
 
 <h3 align="left">Connect with me:</h3>
