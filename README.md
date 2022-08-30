@@ -1,18 +1,13 @@
 <h1 align="center">Greetings 👋, I'm Sohaib Raza</h1>
-<h6 align="center">A passionate full stack MERN Developer. I have an experience in developing React apps and Progressive web apps using the latest state of the art technologies Reactjs | NextJs | Redux | Material-UI| SCSS | GraphQl on the Client side and Nodejs | Firebase | MongoDB | Docker on the server side. Strong arts and design professional with a BS Information Technology (Hon's) focused in Computer Science from GC University Faisalabad.</h6>
+<p align="center">A passionate full stack MERN Developer. I have an experience in developing React apps and Progressive web apps using the latest state of the art technologies Reactjs | NextJs | Redux | Material-UI| SCSS | GraphQl on the Client side and Nodejs | Firebase | MongoDB | Docker on the server side. Strong arts and design professional with a BS Information Technology (Hon's) focused in Computer Science from GC University Faisalabad.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsohaibraza&label=Profile%20views&color=0e75b6&style=flat" alt="imsohaibraza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsohaibraza" alt="imsohaibraza" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/im_sohaibraza" target="blank"><img src="https://img.shields.io/twitter/follow/im_sohaibraza?logo=twitter&style=for-the-badge" alt="im_sohaibraza" /></a> </p>
-
-<h6>Now</h6>
+<h5>Now</h5>
 ✨ Contributing to DMVI(Secomind.ai);
 🔥 Interested in Frontend and Cloud engineering;
 📆 Looking for contributing to react based open source projects
 
-<h6>Bio</h6>
+<h5>Bio</h5>
 - 🤝 Ping me about **ReactJs, NextJs,Redux,GraphQL,RestApi**
 
 - 📫 Reach to me **sohaibraza789@gmail.com**
